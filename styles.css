@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .d-none {
+    display: none;
+  }
+  .mb{
+     margin-bottom:10px;
+     border-style: solid
+    
+    }
+  .description{
+    text-align: justify;
+    text-justify: inter-word;
+    border-style: solid;
+    border: thick double #32a1ce;
+  }
+  
